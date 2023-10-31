@@ -5,7 +5,7 @@ import check_number as check
 print("I'm thinking of a number between 1 and 100. Give me a Second")
 goal = int(random.random()*100)
 #print(goal)
-#time.sleep(3)
+time.sleep(1)
 
 print("Got it. Try to find out which!")
 
